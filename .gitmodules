@@ -1,0 +1,12 @@
+[submodule "cocos-creator-ex"]
+	path = cocos-creator-ex
+	url = https://github.com/ttian99/cocos-creator-ex.git
+[submodule "cocos-js-ex"]
+	path = cocos-js-ex
+	url = https://github.com/ttian99/cocos-js-ex.git
+[submodule "web-utils"]
+	path = web-utils
+	url = https://github.com/ttian99/web-utils.git
+[submodule "js-utils"]
+	path = js-utils
+	url = https://github.com/ttian99/js-utils.git
